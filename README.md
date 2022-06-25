@@ -25,7 +25,7 @@ Users should be able to:
 - Javascript
 
 ## Github page url
-- github - [@github url]()
+- github - [@github url]( https://fizy500.github.io/calculator/)
 
 ## Author
 

@@ -6,7 +6,7 @@ This is a basic arithmetic calculator that can perform addition,subtraction,mult
 
 - [Overview](#overview) - [The challenge](#the-challenge)
 - [Built with](#built-with)
-- [Github page url]
+- [Github page url](#github-page-url)
 - [Author](#author)
 
 
